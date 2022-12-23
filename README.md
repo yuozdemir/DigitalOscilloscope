@@ -1,1 +1,1 @@
-# DigitalOscilloscope
+# Digital Oscilloscope Application
